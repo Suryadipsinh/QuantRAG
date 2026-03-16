@@ -1,0 +1,13 @@
+# Environments
+.venv/
+env/
+
+# Vector Database
+chroma_quantrag_db/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
